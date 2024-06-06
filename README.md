@@ -23,17 +23,17 @@ This is a command-line tool for Linux that organizes files in a directory by the
 
     chmod +x organizer.py
 
-Usage
-Organize Files
+  Usage
+  Organize Files
 
-Organize files in a specified directory by their file extensions.
+   Organize files in a specified directory by their file extensions.
 
-shell
+   shell
 
     ./organizer.py organize /path/to/your/directory
 
-Manage Command Shortcuts
-Add a Shortcut
+   Manage Command Shortcuts
+   Add a Shortcut
 
 Add a new command shortcut.
 
@@ -95,15 +95,12 @@ shell
 Configuration
 
 Command shortcuts are stored in a JSON configuration file located at ~/.file_organizer_config.json. This file is created and managed automatically by the script.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-##Contributing
+Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 Contact
 
-For any questions or suggestions, please open an issue on GitHub or contact me at [your-email@example.com].
+For any questions or suggestions, please open an issue on GitHub or contact me at [mahallepratik683@gmail.com].
 
